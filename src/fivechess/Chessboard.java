@@ -7,6 +7,9 @@ package fivechess;
 public class Chessboard {
    //定义一个二维数组来充当一个棋盘
 	private String[][] board;
+	
+	
+	
 	//定义棋盘的大小
 	public static final int BOARD_SIZE=10;
 	/*
